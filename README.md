@@ -30,18 +30,32 @@ loan_status
 Features:
 
 Feature	Description
+
+
 person_age	Applicant’s age
+
 person_gender	Gender
+
 person_education	Education level
+
 person_income	Annual income
+
 person_emp_exp	Employment experience (years)
+
 person_home_ownership	Home ownership type
+
 loan_amnt	Loan amount requested
+
 loan_intent	Loan purpose
+
 loan_int_rate	Loan interest rate
+
 loan_percent_income	Loan amount as % of income
+
 cb_person_cred_hist_length	Credit history length (years)
+
 credit_score	Applicant’s credit score
+
 previous_loan_defaults_on_file	Previous defaults (Yes/No)
 
 🛠 Technologies Used
