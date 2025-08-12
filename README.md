@@ -1,4 +1,5 @@
 📌 Overview
+
 This project is a Machine Learning application that predicts whether a loan can be sanctioned based on applicant information.
 It uses Random Forest Classifier for prediction and a Streamlit web interface for user interaction.
 
